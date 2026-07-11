@@ -1,1 +1,1 @@
-print("new programe")
+print("new programe new")
